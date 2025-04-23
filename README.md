@@ -1,5 +1,5 @@
 # StreamLit
-i was just playing around with streamlit just seeing what can i do it
-and it was really good and simply
-i dont maybe this help me easily build an web interface(UI) for AI applications
+i was just playing around with streamlit just seeing what i can do with it
+and it was really good
+i dont maybe this might help me easily build an web interface(UI) for my fun AI applications(side projects)
 lets try cuz its very easy to use
